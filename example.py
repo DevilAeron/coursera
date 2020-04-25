@@ -1,3 +1,3 @@
 def git_opeation():
-	print("I a adding example.py")
+	print("I am adding example.py file to the remote repository.")
 git_opeation()
